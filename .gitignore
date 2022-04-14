@@ -1,3 +1,4 @@
+src/**/Main.*
 .DS_Store
 HELP.md
 .gradle
